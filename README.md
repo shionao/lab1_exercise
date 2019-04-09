@@ -30,4 +30,4 @@ This is a description about **ME**. This is harder than *I* thought.
 * food 2
 * food 3
 
-`"If I don't have to do it, I won't. If I do have to do it, make it quick."`
+[`"If I don't have to do it, I won't. If I do have to do it, make it quick."`](http://www.kyotoanimation.co.jp/kotenbu/)
