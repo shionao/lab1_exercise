@@ -12,3 +12,22 @@ Then, write a little description about yourself with at least 2 different format
 Next, rank your favorite foods in an **unordered** list.
 
 Lastly, put your favorite quote in a block quote, and provide a link to a website that provides additional information about the quote.
+
+
+
+
+# SHINICHIRO AOYAGI
+
+## University of Washington
+
+### Junior
+
+![](stick.png)
+
+This is a description about **ME**. This is harder than *I* thought.
+
+* food 1
+* food 2
+* food 3
+
+`"If I don't have to do it, I won't. If I do have to do it, make it quick."`
